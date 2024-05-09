@@ -6,7 +6,7 @@
 
 
 
-## View live preview [here]((https://bhargrah.netlify.app/))
+## View live preview [here](https://bhargrah.netlify.app/)
 
 
 ---
