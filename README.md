@@ -74,28 +74,18 @@ Eg:
 
 ```javascript
 export const userData = {
-  githubUser: "said7388",
-  devUsername: "said7388",
-  github: "https://github.com/said7388",
-  linkedIn: "https://www.linkedin.com/in/abu-said-bd/",
-  twitter: "https://twitter.com/said7388",
-  stackOverflow: "https://stackoverflow.com/users/16840768/abu-said",
-  leetcode: "https://leetcode.com/said3812/",
-  resume:
-    "https://drive.google.com/file/d/1eyutpKFFhJ9X-qpQGKhUNnVRkB5Wer00/view?usp=sharing",
-  skills: [
-    "React",
-    "NextJS",
-    "Redux",
-    "Express",
-    "NestJS",
-    "MySql",
-    "MongoDB",
-    "Postgres",
-    "Docker",
-    "AWS",
-  ],
-  timezone: "+6",
+  githubUser: 'bhargrah',
+  devUsername: "bhargrah",
+  github: 'https://github.com/bhargrah',
+  linkedIn: 'https://www.linkedin.com/in/rahulkumarbhargava/',
+  twitter: 'https://twitter.com/said7388',
+  stackOverflow: 'https://stackoverflow.com/users/12253441/rahul-kumar-bhargava',
+  leetcode: "https://leetcode.com/bhargrah/",
+  resume: "https://drive.google.com/file/d/1ekAMXaLkjAXx9a4_icanbxZu_1M8hoT2/view?usp=drive_link",
+  skills: ['Java 8/11/17', 'Scala', 'Python','Rust', 'Shell'],
+  frameworks: ['Spring Boot','Spring Cloud'],
+  technologies: ['Kafka', 'Redis', 'Elastic Search', 'MongoDB', 'Alfresco', 'Grafana', 'Kanban', 'GIT', 'AWS', 'Docker', 'Treadmill', 'Jenkins', 'Maven'],
+  timezone: '+5:30'
 };
 ```
 
